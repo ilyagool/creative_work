@@ -1,1 +1,1 @@
-# creative_work
+Коммивояжер реализован на OpenGL
