@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/images">
-        <file alias="minus">minus.png</file>
-        <file alias="plus">plus.png</file>
-        <file alias="search">search.png</file>
-    </qresource>
-</RCC>
